@@ -1,0 +1,6 @@
+if SHIELD_LEFTSPLITHALF
+
+config ZMK_KEYBOARD_NAME
+    default "leftsplithalf"
+
+endif
